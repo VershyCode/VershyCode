@@ -7,22 +7,28 @@
 😄 I can learn easly anything of developing technologies.
 ## Languages 
 
-⚡ Dart --**90%**<br/>
-⚡ JavaScript *[HTML5 + CSS3]* -- **95%**<br/>
-⚡ C# --**90%**<br/>
-⚡ Java -- **90%**<br/>
-⚡ Golang --**60%**<br/>
-⚡ PHP -- **90%**<br/>
+⚡ Dart <br/>
+⚡ JavaScript *[HTML5 + CSS3]* <br/>
+⚡ C# <br/>
+⚡ Java <br/>
+⚡ Golang <br/>
+⚡ PHP <br/>
 
-## Frameworks & Libraries
 
-⚡ Flutter<br/>
-⚡ .NET FRAMEWORK<br/>
+## Db
+⚡ MySQL<br/>
+⚡ MsSQL<br/>
+⚡ SQLite (training...)<br/>
+⚡ MongoDB (training...)<br/>
+
+## Frameworks, Libraries & Others...
+
+⚡ Flutter <br/>
+⚡ .NET FRAMEWORK <br/>
+⚡ .NET CORE <br/>
 ⚡ Bootstrap 4<br/>
-⚡ Laravel
-
-## Others
-⚡ NodeJs
+⚡ Laravel <br/>
+⚡ NodeJs + express
 
 ## The end.
 
