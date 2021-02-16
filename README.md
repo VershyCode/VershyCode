@@ -10,25 +10,24 @@
 ⚡ Dart <br/>
 ⚡ JavaScript *[HTML5 + CSS3]* <br/>
 ⚡ C# <br/>
-⚡ Java <br/>
-⚡ Golang <br/>
-⚡ PHP <br/>
+⚡ SQL <br/>
 
 
 ## Db
 ⚡ MySQL<br/>
 ⚡ MsSQL<br/>
-⚡ SQLite (training...)<br/>
-⚡ MongoDB (training...)<br/>
+⚡ SQLite<br/>
+⚡ MongoDB<br/>
 
 ## Frameworks, Libraries & Others...
 
 ⚡ Flutter <br/>
 ⚡ .NET FRAMEWORK <br/>
-⚡ .NET CORE <br/>
-⚡ Bootstrap 4<br/>
-⚡ Laravel <br/>
-⚡ NodeJs + express
+⚡ .NET CORE & EntityFramework <br/>
+⚡ ASP.NET MVC
+⚡ Bootstrap<br/>
+⚡ Angular
+⚡ NodeJs + Express
 
 ## The end.
 
