@@ -24,10 +24,10 @@
 ⚡ Flutter <br/>
 ⚡ .NET FRAMEWORK <br/>
 ⚡ .NET CORE & EntityFramework <br/>
-⚡ ASP.NET MVC
+⚡ ASP.NET MVC<br/>
 ⚡ Bootstrap<br/>
-⚡ Angular
-⚡ NodeJs + Express
+⚡ Angular<br/>
+⚡ NodeJs + Express<br/>
 
 ## The end.
 
